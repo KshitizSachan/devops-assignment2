@@ -3,7 +3,14 @@ const kshitiz_add = (a, b) => {
 }
 
 
+
 //prasad's contribution
 const prasad_sub = (a,b) => {
  return a-b
 }
+
+//rounish contri
+function subtract(a, b) {
+    return a - b;
+}
+
