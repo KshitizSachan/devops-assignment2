@@ -25,3 +25,7 @@ const priyal_div = (a,b)=>{
 
 }
 
+const sarthak_mod = (a, b) => {
+    if(b==0) return a;
+    return a % b;
+}
