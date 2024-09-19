@@ -14,3 +14,14 @@ function subtract(a, b) {
     return a - b;
 }
 
+//priyal's contribution
+const priyal_div = (a,b)=>{
+    if(b === 0){
+        return -1;
+    }
+    else{
+        return a / b;
+    }
+
+}
+
