@@ -29,3 +29,5 @@ const sarthak_mod = (a, b) => {
     if(b==0) return a;
     return a % b;
 }
+//Ravi's Contribution
+const multiply=(a,b) => a*b;
