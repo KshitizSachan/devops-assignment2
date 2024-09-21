@@ -14,7 +14,20 @@ const aditya_exp = (a,b) => {
     return a**b
    }
 
-//rounish contri
+   //siddhant's contribution
+const siddhant_findMax = (a,b) => {
+    
+    if(b>a){
+        return b;
+    }
+    else{
+        return a;
+    }
+
+}
+   
+
+//rounish contribution
 function subtract(a, b) {
     return a - b;
 }
