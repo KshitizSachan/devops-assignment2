@@ -43,9 +43,11 @@ const priyal_div = (a,b)=>{
 
 }
 
-// Sarthak's contribution
+// Sarthak's contribution -> function to return remainder on dividing a from b.
 const sarthak_remainder = (a, b) => {
-    if(b == 0) return a;
+    if (b == 0) {
+        return a;
+    }
     return a % b;
 }
 
