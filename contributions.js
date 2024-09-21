@@ -9,6 +9,11 @@ const prasad_sub = (a,b) => {
  return a-b
 }
 
+//aditya's contribution
+const aditya_exp = (a,b) => {
+    return a**b
+   }
+
 //rounish contri
 function subtract(a, b) {
     return a - b;
